@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ishop</string>
+    <string name="paper">Paper</string>
+    <string name="penimage">penImage</string>
 </resources>
