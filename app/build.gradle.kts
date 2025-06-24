@@ -65,17 +65,17 @@ dependencies {
     //! circle image
     implementation("de.hdodenhof:circleimageview:3.1.0")
 
-    //---scalable unit size
+    //!---scalable unit size
     implementation("com.intuit.sdp:sdp-android:1.1.0")
 
-    //---scalable unit text size
+    //!---scalable unit text size
     implementation("com.intuit.ssp:ssp-android:1.1.0")
 
-    //-- room database
+    //!-- room database
     implementation("androidx.room:room-runtime:2.7.1")
     implementation("androidx.room:room-ktx:2.7.1")
 
-    //--- coroutines for multitask and background thread
+    //!--- coroutines for multitask and background thread
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
 
