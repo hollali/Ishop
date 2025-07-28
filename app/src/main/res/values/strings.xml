@@ -2,4 +2,18 @@
     <string name="app_name">Ishop</string>
     <string name="paper">Paper</string>
     <string name="penimage">penImage</string>
+    <string name="login">Login</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="createAccount">CREATE ACCOUNT</string>
+    <string name="signup">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account_login">Already have an account?\nLOGIN</string>
+    <string name="reset_password">RESET PASSWORD</string>
+    <string name="enter_email">Please enter your email address to receive a password reset link</string>
+    <string name="backToLogin">BACK TO LOGIN</string>
 </resources>

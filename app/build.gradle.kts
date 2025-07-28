@@ -60,7 +60,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
-    //!--- Adding additional resources ti Projects ---//
+    //!--- Adding additional resources to Projects ---//
 
     //-- material design
     implementation("com.google.android.material:material:1.12.0")
@@ -81,5 +81,10 @@ dependencies {
     //!--- coroutines for multitask and background thread
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
+
+    //!code picker library
+    implementation("com.hbb20:ccp:2.5.1")
+
+
 
 }
