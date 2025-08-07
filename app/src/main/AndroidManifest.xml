@@ -10,7 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Ishop"
+        android:theme="@style/Theme.iShop"
         tools:targetApi="31">
         <activity
             android:name=".LoginActivity"
@@ -19,7 +19,7 @@
             android:name=".SplashActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.Ishop">
+            android:theme="@style/Theme.iShop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
