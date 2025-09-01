@@ -1,0 +1,28 @@
+<resources>
+    <!-- Custom Input Field Background -->
+    <style name="InputFieldStyle">
+        <item name="android:background">@drawable/bg_input_field</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textColorHint">@color/text_hint</item>
+    </style>
+
+    <!-- Primary Button Style -->
+    <style name="PrimaryButtonStyle" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/button_primary</item>
+        <item name="android:textColor">@color/button_text_primary</item>
+        <item name="cornerRadius">28dp</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:elevation">2dp</item>
+        <item name="rippleColor">@color/ripple_button</item>
+    </style>
+
+    <!-- Text Button Style -->
+    <style name="TextButtonStyle" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textColor">@color/accent_primary</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="rippleColor">@color/ripple_accent</item>
+    </style>
+</resources>

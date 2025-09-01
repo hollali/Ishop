@@ -28,4 +28,36 @@
     <color name="ColorGray">#2F2F2F</color>
     <color name="ColorGold">#F1C752</color>
 
+
+    <!-- Primary Colors -->
+    <color name="background_primary">#FAFAFA</color>
+    <color name="surface_primary">#FFFFFF</color>
+    <color name="accent_primary">#FF6B35</color>
+    <color name="button_primary">#FF6B35</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="button_text_primary">#FFFFFF</color>
+
+    <!-- Input Colors -->
+    <color name="input_background">#F9FAFB</color>
+    <color name="input_stroke">#E5E7EB</color>
+    <color name="input_stroke_focused">#FF6B35</color>
+
+    <!-- Icon Colors -->
+    <color name="icon_primary">#FF6B35</color>
+    <color name="icon_secondary">#6B7280</color>
+
+    <!-- Interactive States -->
+    <color name="ripple_accent">#1AFF6B35</color>
+    <color name="ripple_button">#1AFFFFFF</color>
+    <color name="checkbox_tint">#FF6B35</color>
+
+    <!-- Stroke and Divider -->
+    <color name="stroke_light">#E5E7EB</color>
+
+    <!-- Legacy colors (keep for backward compatibility) -->
+
 </resources>

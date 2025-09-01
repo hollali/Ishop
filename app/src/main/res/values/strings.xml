@@ -3,6 +3,7 @@
     <string name="paper">Paper</string>
     <string name="penimage">penImage</string>
     <string name="login">Login</string>
+    <!-- Form Fields -->
     <string name="enter_phone_number">Enter Phone Number</string>
     <string name="enter_password">Enter Password</string>
     <string name="remember_me">Remember Me</string>
@@ -16,4 +17,19 @@
     <string name="reset_password">RESET PASSWORD</string>
     <string name="enter_email">Please enter your email address to receive a password reset link</string>
     <string name="backToLogin">BACK TO LOGIN</string>
+
+
+        <!-- Login Screen -->
+        <string name="welcome_back">Welcome Back</string>
+        <string name="sign_in_to_continue">Sign in to continue</string>
+        <string name="sign_in">Sign In</string>
+        <string name="sign_up">Sign Up</string>
+        <string name="dont_have_account">Don\'t have an account?</string>
+
+        <!-- Content Descriptions -->
+        <string name="back_button_content_desc">Go back</string>
+        <string name="app_logo_content_desc">App logo</string>
+    <string name="country_code">country code</string>
+
+
 </resources>

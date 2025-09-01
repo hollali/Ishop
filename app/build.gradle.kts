@@ -73,6 +73,7 @@ dependencies {
     //!---scalable unit size
     implementation("com.intuit.sdp:sdp-android:1.1.1")
 
+
     //!---scalable unit text size
     implementation("com.intuit.ssp:ssp-android:1.1.1")
 
@@ -86,6 +87,7 @@ dependencies {
 
     //!code picker library
     implementation("com.hbb20:ccp:2.7.3")
+    implementation("com.hbb20:ccp:2.7.0")
 
 
 
