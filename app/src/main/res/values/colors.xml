@@ -59,5 +59,46 @@
     <color name="stroke_light">#E5E7EB</color>
 
     <!-- Legacy colors (keep for backward compatibility) -->
+    <color name="color_gold">#D4AF37</color>
+    <color name="color_gold_dark">#B8941F</color>
+    <color name="color_gold_light">#F5E6B3</color>
+
+    <!-- Background Colors -->
+    <color name="background_secondary">#FFFFFF</color>
+    <color name="loading_overlay_background">#80000000</color>
+
+    <!-- Text Colors -->
+    <color name="text_tertiary">#999999</color>
+
+    <!-- Input Colors -->
+    <color name="input_stroke_color">@color/color_gold</color>
+    <color name="hint_text_color">#888888</color>
+    <color name="icon_tint">#666666</color>
+
+    <!-- Button Colors -->
+    <color name="button_primary_background">@color/color_gold</color>
+    <color name="button_primary_text">#FFFFFF</color>
+    <color name="button_disabled_background">#E0E0E0</color>
+    <color name="button_disabled_text">#A0A0A0</color>
+
+    <!-- Checkbox Colors -->
+
+    <!-- Password Strength Colors -->
+    <color name="strength_weak">#F44336</color>
+    <color name="strength_fair">#FF9800</color>
+    <color name="strength_good">#4CAF50</color>
+    <color name="strength_strong">#2196F3</color>
+    <color name="strength_background">#E0E0E0</color>
+
+    <!-- Progress Colors -->
+    <color name="progress_track_color">#E0E0E0</color>
+
+    <!-- Common Colors -->
+
+    <color name="transparent">#00000000</color>
+
+    <!-- Error Colors -->
+    <color name="error_color">#F44336</color>
+    <color name="success_color">#4CAF50</color>
 
 </resources>

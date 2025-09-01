@@ -31,5 +31,33 @@
         <string name="app_logo_content_desc">App logo</string>
     <string name="country_code">country code</string>
 
+    <!-- Screen Titles -->
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Join us today and get started</string>
+
+    <!-- Form Hints -->
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+    <!-- Button Text -->
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Password Strength -->
+    <string name="password_strength_weak">Weak</string>
+    <string name="password_strength_fair">Fair</string>
+    <string name="password_strength_good">Good</string>
+    <string name="password_strength_strong">Strong</string>
+
+    <!-- Terms and Conditions -->
+    <string name="terms_and_conditions_text">I agree</string>
+    <string name="creating_account">creating account</string>
+    <string name="content_desc_back_button">content_back_button</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="join_us_today">join us today</string>
+    <string name="terms_and_conditions_agreement">terms and conditions agreement</string>
 
 </resources>
